@@ -4,5 +4,5 @@ import java.util.HashMap;
 
 
 class FrontServlet{
-    HashMap<String, Mapping> mappinUrls;
+    HashMap<String, Mapping> MappingUrls;
 }
